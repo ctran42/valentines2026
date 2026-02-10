@@ -10,4 +10,5 @@ export default defineConfig({
     },
     host: true,
   },
+  base: "/valentines2026"
 })
